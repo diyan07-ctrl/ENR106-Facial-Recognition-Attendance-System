@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+face-reco_temp/
+Data/Users/
